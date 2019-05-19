@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9c27b0</color>
+    <color name="colorPrimaryDark">#202020</color>
+    <color name="colorAccent">#03a9f4</color>
+
+    <!--color untuk gradient tansition-->
+    <color name="white">#ffffff</color>
+    <color name="purple_500">#7A118B</color>
+    <color name="deep_purple_500">#5416C7</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="light_blue_500">#03a9f4</color>
+
+    <color name="grey">#1E1E1E</color>
+
+    <color name="green">#202020</color>
+</resources>
